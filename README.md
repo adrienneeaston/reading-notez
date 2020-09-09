@@ -1,5 +1,5 @@
 # reading-notez
-## These are my reading notes
+
 
 ## Growth mindset is living in the world of *possible*!
 - Learning from failures
@@ -7,5 +7,12 @@
 - I don't know how...**yet**!
 
 ### My name is Adrienne. I enjoy writing sodtware, cooking, and acting. [GitHub](https://github.com/adrienneeaston)
+
+## These are my reading notes 
+
+### BLAH BLAH BLAH...
+* blah
+* blah
+* blah
 
 
