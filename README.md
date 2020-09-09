@@ -6,4 +6,6 @@
 - Remembering that nothing is easy at first
 - I don't know how...**yet**!
 
+### My name is Adrienne. I enjoy writing sodtware, cooking, and acting. [GitHub](https://github.com/adrienneeaston)
+
 
